@@ -30,7 +30,22 @@ This repository is designed to:
 * improve conceptual clarity
 
 > [!TIP]
-> This is not just a notes repository — it’s a **system to study smarter, not harder**.
+> This is not just a notes repository, it’s a **system to study smarter, not harder**.
+
+---
+
+## 📚 Subjects Covered
+
+- 🏛️ [Polity](./Polity)  
+- 📜 [History](./History)  
+- 🌍 [Geography](./Geography)  
+- 💰 [Economy](./Economy)
+- 🧮 [CSAT](./CSAT)
+- 🔬 [Science & Technology](./Science_Technology)  
+- 📰 [Current Affairs](./Current_Affairs)  
+- ⚖️ [Ethics](./Ethics)  
+- 🧬 [Anthropology](./Anthropology)
+- ➕ **Many more subjects and topics...**
 
 ---
 
