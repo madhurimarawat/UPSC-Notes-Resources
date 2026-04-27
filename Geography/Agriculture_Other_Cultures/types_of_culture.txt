@@ -1,0 +1,42 @@
+Types of Culture with Description, Techniques:
+
+Agriculture 🌾
+Description: Cultivation of crops and rearing of animals for food and resources.
+Example Techniques: Crop rotation, organic farming
+
+Horticulture 🌱
+Description: Growing fruits, vegetables, flowers, and ornamental plants.
+Example Techniques: Greenhouse farming, drip irrigation
+
+Aquaculture 🐟
+Description: Breeding and rearing aquatic organisms in water bodies.
+Example Techniques: Fish farming, shrimp culture
+
+Sericulture 🐛
+Description: Production of silk by rearing silkworms.
+Example Techniques: Mulberry cultivation, cocoon processing
+
+Apiculture 🍯
+Description: Raising bees for honey and wax production.
+Example Techniques: Beehive farming, pollen trap method
+
+Viticulture 🍇
+Description: Cultivation of grapes for wine and food.
+Example Techniques: Trellis system, canopy management
+
+Floriculture 🌸
+Description: Cultivation of flowering and ornamental plants.
+Example Techniques: Tissue culture, hydroponics
+
+Silviculture 🌳
+Description: Growing and managing forest trees.
+Example Techniques: Afforestation, selective cutting
+
+Pisciculture 🐠
+Description: Breeding and rearing fish in controlled environments.
+Example Techniques: Pond preparation, composite fish culture
+
+Mushroom Culture 🍄
+Description: Growing edible and medicinal mushrooms.
+Example Techniques: Tray method, bag method
+
