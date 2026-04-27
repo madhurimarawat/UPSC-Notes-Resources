@@ -1,0 +1,62 @@
+Types of Religious Groups:
+
+---
+
+1. Cult 🌀
+
+* Definition: A small, new, or unorthodox religious group, often led by a charismatic leader.
+* Key Feature: Often seen as outside mainstream society.
+* Example: Heaven’s Gate (US) 🚀
+
+---
+
+2. Sect ✝️☪️✡️
+
+* Definition: A subgroup that breaks away from a larger religious tradition due to differences in beliefs or practices.
+* Key Feature: Maintains most of the parent religion’s core beliefs but has distinctive practices.
+* Example: Amish (from Christianity) 🌾
+
+---
+
+3. Denomination ⛪🕌🕍
+
+* Definition: A recognized, organized branch of a major religion with its own institutions and practices.
+* Key Feature: Larger, formalized, part of mainstream religion.
+* Example: Roman Catholicism (Christianity) ✝️, Sunni Islam ☪️, Reform Judaism ✡️
+
+---
+
+4. Church ⛪
+
+* Definition: A large, established religious organization with a formal structure and community of followers.
+* Key Feature: Considered mainstream; often politically and socially influential.
+* Example: Church of England 🇬🇧
+
+---
+
+5. New Religious Movement (NRM) 🌱
+
+* Definition: A recently founded religion or spiritual group, often with innovative beliefs or practices.
+* Key Feature: Can start as a cult and grow into a denomination over time.
+* Example: Scientology 👽, Bahá’í Faith 🌈
+
+---
+
+6. Congregation 🙏
+
+* Definition: A local group of worshippers who meet regularly in a place of worship.
+* Key Feature: Can belong to a denomination or church; focuses on community worship.
+* Example: A local parish, mosque, or synagogue 🕌⛪🕍
+
+---
+
+Quick Comparison Table
+
+| Type         | Symbol | Size         | Relation to Main Religion               | Example                     |
+| ------------ | ------ | ------------ | --------------------------------------- | --------------------------- |
+| Cult         | 🌀     | Small        | Outside mainstream                      | Heaven’s Gate 🚀            |
+| Sect         | ✝️☪️✡️ | Small-medium | Breaks from larger religion             | Amish 🌾                    |
+| Denomination | ⛪🕌🕍  | Large        | Part of mainstream                      | Roman Catholicism ✝️        |
+| Church       | ⛪      | Large        | Mainstream, established                 | Church of England 🇬🇧      |
+| NRM          | 🌱     | Varies       | New, innovative                         | Scientology 👽, Bahá’í 🌈   |
+| Congregation | 🙏     | Local        | Community worship, part of larger group | Parish, church, mosque 🕌⛪🕍 |

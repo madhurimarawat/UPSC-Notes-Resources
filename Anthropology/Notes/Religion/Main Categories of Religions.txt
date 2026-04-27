@@ -1,0 +1,76 @@
+1️⃣ Main Categories of Religions
+
+Religions are often classified by how they view the divine (Gods/spirits):
+
+Monotheism → Belief in one God.
+Examples: Judaism, Christianity, Islam, Sikhism, Zoroastrianism.
+
+Polytheism → Belief in many gods/deities.
+Examples: Hinduism, Shinto, Ancient Greek/Egyptian religions.
+
+Henotheism → Belief in one supreme God but acceptance of others.
+Example: Some schools of Hinduism (worship of one deity like Vishnu or Shiva but acceptance of others).
+
+Animism → Belief that spirits or divine forces exist in nature (trees, rivers, animals, mountains).
+Example: African tribal religions, Indigenous religions, Native American traditions.
+
+Atheistic / Non-theistic → Religions that do not emphasize God/gods, but focus on philosophy, ethics, or self-liberation.
+Example: Buddhism, Jainism, Confucianism (though some followers add ritual elements).
+
+---
+
+2️⃣ Comparison Table of Major Religions
+
+Category	Religion	Origin (Time/Place)	Founder/Key Figure	Scripture(s)	Followers Called	Key Belief / Symbol
+
+Category     | Religion        | Origin (Time & Place)     | Founder / Key Figure         | Sacred Texts                 | Followers      | Core Beliefs / Symbols
+-------------|-----------------|---------------------------|------------------------------|------------------------------|----------------|--------------------------------------
+Abrahamic    | Judaism         | 2000 BCE, Middle East     | Abraham, Moses               | Torah, Tanakh                | Jews           | One God (Yahweh), covenant, law
+             | Christianity    | 1st c. CE, Palestine      | Jesus Christ                 | Bible (Old & New Testament)  | Christians     | Salvation through Christ, Cross ✝
+             | Islam           | 7th c. CE, Arabia         | Prophet Muhammad             | Quran, Hadith                | Muslims        | One God (Allah), Five Pillars ☪
+Dharmic      | Hinduism        | 1500 BCE+, India          | No single founder            | Vedas, Gita, Upanishads      | Hindus         | Dharma, Karma, Moksha, Om 🕉
+             | Buddhism        | 5th c. BCE, India         | Siddhartha Gautama (Buddha)  | Tripitaka, Sutras            | Buddhists      | Four Noble Truths, Nirvana ☸
+             | Jainism         | 6th c. BCE, India         | Mahavira (24th Tirthankara)  | Agamas                       | Jains          | Ahimsa (non-violence), Moksha
+             | Sikhism         | 15th c. CE, Punjab        | Guru Nanak & 10 Gurus        | Guru Granth Sahib            | Sikhs          | One God, Equality, Seva ⚔
+Chinese      | Confucianism    | 5th c. BCE, China         | Confucius                    | Analects                     | Confucians     | Ethics, Order, Filial Piety
+             | Taoism          | 4th c. BCE, China         | Laozi (Lao Tzu)              | Tao Te Ching                 | Taoists        | Harmony with Tao, Yin-Yang ☯
+             | Chinese Folk    | Ancient China             | No single founder            | Local traditions             | Practitioners  | Ancestor worship, rituals
+Other        | Zoroastrianism  | 1200–600 BCE, Persia      | Zoroaster (Zarathustra)      | Avesta                       | Zoroastrians   | Dualism: Ahura Mazda vs Angra Mainyu 🔥
+             | Shinto          | Ancient Japan             | No single founder            | Kojiki, Nihon Shoki           | Shintoists     | Kami (spirits), Purity rituals 🏮
+             | African Trad.   | Prehistoric Africa        | Tribal ancestors             | Oral tradition               | Varied tribes  | Animism, ancestral spirits
+
+
+---
+
+3️⃣ Flow Chart of Religions
+
+Religions
+│
+├── Based on Belief in God(s)
+│
+├── Monotheistic (One God)
+│   ├── Abrahamic Religions
+│   │   ├── Judaism
+│   │   ├── Christianity
+│   │   └── Islam
+│   ├── Sikhism
+│   └── Zoroastrianism
+│
+├── Polytheistic (Many Gods)
+│   ├── Hinduism
+│   ├── Shinto
+│   ├── Ancient Greek/Egyptian
+│
+├── Henotheistic (One Supreme God but others exist)
+│   └── Certain Hindu traditions
+│
+├── Animistic (Nature/Spirit-based)
+│   ├── African Traditional Religions
+│   ├── Native American Religions
+│   └── Tribal Faiths
+│
+└── Non-theistic / Philosophical
+    ├── Buddhism
+    ├── Jainism
+    └── Confucianism
+    └── Taoism
