@@ -1,0 +1,35 @@
+
+TRIPS Agreement and India
+==========================
+
+1. What is TRIPS?
+-----------------
+- TRIPS stands for **Trade-Related Aspects of Intellectual Property Rights**.
+- It is an international legal agreement administered by the **World Trade Organization (WTO)**.
+- Sets **minimum standards** for IP protection and enforcement among WTO members.
+- Covers: copyrights, patents, trademarks, geographical indications, trade secrets, industrial designs, integrated circuits, plant varieties.
+
+2. TRIPS and India
+-------------------
+- India is a **WTO member**, hence bound by TRIPS.
+- Came into effect globally in **1995**.
+- Developing countries like India received a **transition period** to comply.
+- India amended its IP laws:
+  - **Patents Act, 1970** → amended in 1999, 2002, 2005 (introduced product patents for pharma & agrochemicals).
+  - **Copyright Act** updated.
+  - **Trademark Act** updated.
+  - **Geographical Indications of Goods (Registration and Protection) Act, 1999** (e.g., Darjeeling Tea).
+
+3. Key Features under TRIPS for India
+--------------------------------------
+- **Patent term:** 20 years from filing date.
+- **Copyright term:** Life of author + 60 years.
+- **Compulsory licensing:** Allowed under public health needs (e.g., Natco vs Bayer case).
+- **Protection for Traditional Knowledge:** India created **Traditional Knowledge Digital Library (TKDL)** to prevent biopiracy.
+
+4. Important Points for Exams
+------------------------------
+- TRIPS is part of **WTO agreements** (1995).
+- India shifted from **process patents** to **product patents** in 2005.
+- TRIPS provides for IP in **trade context**, linking IP with international commerce.
+- Issues: balancing IP protection with access to medicines and traditional knowledge.
