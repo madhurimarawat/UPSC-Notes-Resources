@@ -245,13 +245,3 @@ Popular optionals: PSIR, Anthropology, Sociology, Geography, History
 | SCHEMES + DATA | Economy, Society, Governance | MGNREGA, Ujjwala, SDG Goals          |
 | QUOTES         | Essay, Ethics                | “Justice delayed is justice denied.” |
 | CASE STUDY     | GS II, III, IV               | Kerala floods, SEWA, AMUL            |
-
----
-
-## ✨ Final Mantras
-
-> “UPSC is not a test of intelligence. It’s a test of patience, persistence, and purpose.”
-
-> “Plan like a warrior. Prepare like a monk. Perform like a phoenix.”
-
-> “If you fail to prepare, be prepared to fail.”
