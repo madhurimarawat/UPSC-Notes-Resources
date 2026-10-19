@@ -96,9 +96,3 @@ Link theory to:
 - ✅ Practice diagrams from memory
 - ✅ Time-bound practice (15–20 minutes per 10-marker)
 - ✅ Self-evaluate with PYQ comparison
-
----
-
-> 🧠 **Mantra for Anthropology**:
-> 
-> **“Explain like a teacher, think like a scholar, present like an artist.”**
