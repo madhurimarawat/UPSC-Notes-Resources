@@ -30,7 +30,7 @@ This repository is designed to:
 * improve conceptual clarity
 
 > [!TIP]
-> This is not just a notes repository, it’s a **system to study smarter, not harder**.
+> This repository contains color-coded notes, shortcuts to main and important points, and links to important topics and free learning resources.
 
 ---
 
